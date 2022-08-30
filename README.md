@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tnachian70
 - 👀 I’m interested in data science and web development!
-- 🌱 I’m currently learning more about React Hooks and Web API's
+- 🌱 I’m currently learning more about building web API's with Node.js and Express!
 - 💞️ I’m looking to collaborate on web development projects :)
 - 📫 How to reach me: tnachian@ucsb.edu
 
